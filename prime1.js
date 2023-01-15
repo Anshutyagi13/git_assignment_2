@@ -7,7 +7,6 @@ for(let i=2;i<num/2;i++){
 }
 if(count==0){
   console.log("Yes")
-}
-else{
-  console.log("No")
+  }else{
+console.log("No)
 }
